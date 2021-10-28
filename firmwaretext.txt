@@ -1,0 +1,19 @@
+To be reader for a merge request: 
+
+It must update sidekick firmware when pressing the button. 
+It must show the current firmware version. 
+
+
+TO DO: 
+ 	1. Provide the firmware version to the sidekick view
+		a. May need loading screen that says, "fetching version number" 
+	2. Clean up VC and Firmware Updater
+	3. Provide firmware fetching for the s3 bucket class. 
+	4. Reconnect Device after updating
+	5. Pass the UUID to the firmware updater via the delegate
+
+versionNumberDelegate
+
+https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip
+
+
